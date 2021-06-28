@@ -1,0 +1,145 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+border: 1px solid #EEF0F3;
+}
+.container{
+
+width: 90%;
+
+overflow: hidden;
+}
+.logo{
+
+padding-left: 100px;
+width: 10%;
+
+float: left;
+}
+.logo img{
+
+width: 100%;
+}
+.menu{
+
+
+
+width: 40%;
+
+float: right;
+
+display: inline-block;
+}
+.menu ul{
+float: right;
+
+}
+.menu ul li{
+
+list-style: none;
+
+float: left;
+
+margin: 0px 10px;
+}
+
+.menu ul li a{
+
+color: #0F2656;
+text-decoration: none;
+	
+text-transform: capitalize;
+}
+
+
+.menu ul li a:hover{
+	color: #008AFF;
+
+}
+.menu ul li:last-child a{
+  margin right: 0px;
+}
+
+.alex{
+	background-color: black;
+
+}
+
+.alex a{
+
+	text-decoration: none;
+}
+.alex h2{
+
+    color: #BF2F38;
+}
+.alex ul{
+
+}
+.alex ul li{
+
+}
+.alex ul li a{
+	    color: #BF2F38;
+}
+
+
+.container-notary{
+
+width: 90%;
+}
+
+.logo-notary{width: 20%;float: left;}
+
+.logo-notary img{
+
+width: 100%;
+
+padding-left: 100px;
+}
+
+.menu-notary{
+
+float: right;
+
+width: 60%;
+
+
+}
+.menu-notary ul{
+
+
+overflow: hidden;
+
+display: inline-block;
+}
+.menu-notary ul li{
+
+list-style: none;
+
+float: left;
+
+font-size: 14px;
+
+margin: 0px 10px;
+}
+
+.menu-notary ul li a{
+
+color: #565656;
+text-decoration: none;
+}
+
+
+.menu-notary ul li a:hover{
+
+   color: #BF2443;
+
+
+}
+.menu-notary ul li:last-child a{
+
+margin-right: -10px;
+}
